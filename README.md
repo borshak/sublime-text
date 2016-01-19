@@ -1,1 +1,1 @@
-# sublime-text
+Some addition for Sublime Text editor.
